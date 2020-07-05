@@ -1,0 +1,3 @@
+Alex,10
+Bau,20
+Tina,30
