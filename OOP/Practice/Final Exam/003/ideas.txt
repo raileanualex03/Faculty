@@ -1,0 +1,5 @@
+Descriere,proposed,Alex,1
+DescriereNoua,accepted,Alex,3
+DescriereVeche,accepted,Alex,2
+DescriereVechedsadsa,proposed,Alex,1
+newTest,accepted,Bau,1
