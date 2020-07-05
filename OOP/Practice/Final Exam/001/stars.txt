@@ -1,0 +1,7 @@
+star,Balanta,10,10,200
+newaindaw,Balanta,3,20,30
+dsad,Balanta,1,1,1
+new,Balanta,20,10,30
+sup,Balanta,18,17,19
+newStar,Scorpion,15,17,201
+2,Scorpion,32,23,21
